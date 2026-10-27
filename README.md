@@ -162,9 +162,3 @@ intervals, power and minimum detectable effect, Bonferroni correction
 `Pipeline` / `ColumnTransformer`, stratified splitting, class weighting, feature engineering
 for non-linearity and interactions, cost-based threshold selection, target-leakage detection
 
----
-
-## Author
-
-Created by **Prathamesh Deshmane** ([@prathmeshmdeshmane001](https://github.com/prathmeshmdeshmane001))
-
